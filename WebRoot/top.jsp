@@ -19,7 +19,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
         <tr>
         
           <td width="5800" align="center">
-          	<span style="font-size: 40px;">太原理工大学毕业生就业信管理息系统</span>
+          	<span style="font-size: 40px;">大学毕业生就业信管理息系统</span>
           </td>
          <td width="1020" align="right">
          <span style="font-size: 20px;"><a href="method!changepwd" target="main"">修改密码</a></span>
